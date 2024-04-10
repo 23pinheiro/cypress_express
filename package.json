@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/23pinheiro/cypress_express/issues"
   },
-  "homepage": "https://github.com/23pinheiro/cypress_express#readme"
+  "homepage": "https://github.com/23pinheiro/cypress_express#readme",
+  "devDependencies": {
+    "@shelex/cypress-allure-plugin": "^2.40.2",
+    "allure-commandline": "^2.27.0",
+    "allure-cypress": "^2.15.0",
+    "cypress": "^13.7.0"
+  }
 }

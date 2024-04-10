@@ -1,0 +1,11 @@
+{
+  "dup":  {
+      "name": "Estudar Typescript",
+      "is_done": false
+  }, 
+  "update":{
+      "name" : "Pagar as contas de consumo",
+      "is_done": false
+
+  }
+}
